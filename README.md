@@ -33,6 +33,8 @@ Items will be automatically deleted after 5 seconds, or restored immediately whe
    npm start
    ```
 
+Open [http://localhost:3000](http://localhost:3000) to view the auto delete list.
+
 ## 📁 Project Structure
 
 ```
