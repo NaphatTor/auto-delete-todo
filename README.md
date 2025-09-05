@@ -15,7 +15,7 @@ Items will be automatically deleted after 5 seconds, or restored immediately whe
 - Node.js
 - TypeScript
 - HTTP Framework (Express or similar)
-- 
+
 ## 🏃‍♂️ Getting Started
 
 1. Clone the repository:
